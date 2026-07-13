@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as n,b1 as h}from"./chunks/framework.DO5WNDNF.js";const g=JSON.parse('{"title":"介绍与安装","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"getting-started.md"}'),p={name:"index.md"};function l(t,s,k,e,E,d){return a(),n("div",null,[...s[0]||(s[0]=[h("",103)])])}const y=i(p,[["render",l]]);export{g as __pageData,y as default};

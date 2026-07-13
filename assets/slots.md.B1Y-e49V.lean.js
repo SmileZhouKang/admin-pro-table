@@ -1,1 +1,0 @@
-import{_ as i,o as a,c as t,b1 as l}from"./chunks/framework.DO5WNDNF.js";const o=JSON.parse('{"title":"插槽总览","description":"","frontmatter":{},"headers":[],"relativePath":"slots.md","filePath":"slots.md"}'),e={name:"slots.md"};function n(h,s,p,k,d,E){return a(),t("div",null,[...s[0]||(s[0]=[l("",58)])])}const g=i(e,[["render",n]]);export{o as __pageData,g as default};
